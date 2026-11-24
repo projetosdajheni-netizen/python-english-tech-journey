@@ -26,7 +26,7 @@ Jornada prática de aprendizagem de Python, inglês técnico, análise de dados,
 
 - [x] [Aula 1 — Variáveis e strings](modulo-01-fundamentos/semana-01/aula-01-apresentacao.py)
 - [x] [Aula 2 — Números e operações](modulo-01-fundamentos/semana-01/aula-02-remuneracao.py)
-- [ ] Aula 3 — Apresentação pessoal em inglês
+- [x] [Aula 3 — Apresentação pessoal em inglês](english/semana-01/aula-03.md) (parte escrita)
 
 O projeto final utilizará apenas dados sintéticos. As atividades futuras serão registradas conforme sua conclusão.
 
